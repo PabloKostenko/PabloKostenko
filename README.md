@@ -4,10 +4,10 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZmaDBuc2JkdXZrc29qejBxNz
 </div>
 
 <div id="socials" align="center">
-    <a href="linkedin-url">
+    <a href="https://www.linkedin.com/in/pavlokostenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="telegram-url">
+  <a href="https://t.me/pavloskostenko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
