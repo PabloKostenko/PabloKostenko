@@ -23,8 +23,8 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZmaDBuc2JkdXZrc29qejBxNz
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning **SwiftUI**
-- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/pavlokostenko/), [Email](mailto:pshkostenko@gmail.com)
+- 🔨 Currently working on a tycoon-style iOS game set in ancient Egypt — focused on city-building, resource management 🐫
+- 📫 Reach me by [Linktree](https://linktr.ee/pavlokostenko?utm_source=linktree_profile_share&ltsid=dca3837c-4130-41f8-aade-fca2b4f58d58), [Email](mailto:pshkostenko@gmail.com)
 
 ### 🧰 Languages and tools
 
